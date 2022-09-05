@@ -51,6 +51,26 @@ var movies = [
     question: 'Q6.) “Saala ye dukh kaahe khatam nahi hota hai be!” ',
     answer: 'Masaan'
   },
+  {
+    array: ['Mohabbatein', 'Kabhi Khushi Kabhie Gham', 'Baghban'],
+    question: 'Q7.) “Parampara. Pratishtha. Anushasan.” ',
+    answer: 'Mohabbatein'
+  },
+  {
+    array: ['Love Aaj Kal', 'Band Baaja Baaraat', 'Jab We Met'],
+    question: 'Q8.) “Bachpan se hi na, mujhe shaadi karne ka bada craze hai... By God!” ',
+    answer: 'Jab We Met'
+  },
+  {
+    array: ['Ghatak Lethal', 'Border', 'Damini'],
+    question: 'Q9.) “Tareek pe tareek milti rahi hai lekin insaaf nahi milta, my Lord. Milte hai to sirf taareekh” ',
+    answer: 'Damini'
+  },
+  {
+    array: ['Maine Pyar Kiya', 'Mujhse Dosti Karoge', 'Dil To Pagal Hai'],
+    question: 'Q10.) “Dosti ka ek usool hai, madam, no sorry, no thank you.” ',
+    answer: 'Maine Pyar Kiya'
+  },
 ];
 
 function moviedialogue(listOfMovies, dialogue, movieName) {
